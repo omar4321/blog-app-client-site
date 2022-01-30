@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'https://calm-stream-08879.herokuapp.com/';
+const url = 'https://calm-stream-08879.herokuapp.com';
 
 export const createPost = async (post) => {
   try {
